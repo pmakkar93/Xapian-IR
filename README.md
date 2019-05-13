@@ -1,1 +1,2 @@
 # Xapian-IR
+Using Native C++ Xapian API library, we have developed an Information Retrieval Search Engine in Java Programming language. The aim of this project is to store large amount of data in Memory (indexing) and benchmarking it with other state-of-the-art IR libraries like Apache Lucene and LucenePlusPlus. Benchmarking was done with respect to Index Size, Indexing Speed, and Searching Speed. 
